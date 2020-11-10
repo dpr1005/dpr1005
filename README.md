@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Daniel [404] not found.</h1>
+<h1 align="center">Hi 👋, I'm Daniel 404 not found.</h1>
 <h3 align="center">Trying to improve my self everyday.</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="dpr1005" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpr1005&label=Profile%20views&color=0e75b6&style=flat" alt="dpr1005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpr1005" alt="dpr1005" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/callmednx" target="blank"><img src="https://img.shields.io/twitter/follow/callmednx?logo=twitter&style=for-the-badge" alt="callmednx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/callmednx" target="blank"theme=monokai><img src="https://img.shields.io/twitter/follow/callmednx?logo=twitter&style=for-the-badge" alt="callmednx" /></a> </p>
 
 - 🔭 I’m currently working on [GESPRO - College](https://github.com/dpr1005/GESPRO_Teoria_2021)
 
@@ -32,3 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpr1005&show_icons=true&locale=en&layout=compact" alt="dpr1005" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpr1005&show_icons=true&locale=en" alt="dpr1005" /></p>
+
