@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/callmednx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="callmednx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dani.pr21@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dani.pr21@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danielpuenteramirez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielpuenteramirez height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dpr1005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dpr1005" height="30" width="40" /></a>
 </p>
 
