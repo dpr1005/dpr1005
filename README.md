@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpr1005&label=Profile%20views&color=0e75b6&style=flat" alt="dpr1005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpr1005" alt="dpr1005" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpr1005" alt="dpr1005" theme=monokai/></a> </p>
 
-<p align="left"> <a href="https://twitter.com/callmednx" target="blank"theme=monokai><img src="https://img.shields.io/twitter/follow/callmednx?logo=twitter&style=for-the-badge" alt="callmednx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/callmednx" target="blank"><img src="https://img.shields.io/twitter/follow/callmednx?logo=twitter&style=for-the-badge" alt="callmednx" /></a> </p>
 
 - 🔭 I’m currently working on [GESPRO - College](https://github.com/dpr1005/GESPRO_Teoria_2021)
 
