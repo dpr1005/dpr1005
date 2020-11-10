@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dpr1005@alu.ubu.es**
 
-- ⚡ Fun fact **PCs it's way better than consoles.**
+- ⚡ Fun fact **PCs are way better than consoles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
