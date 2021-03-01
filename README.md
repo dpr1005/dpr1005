@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/callmednx" target="blank"><img src="https://img.shields.io/twitter/follow/callmednx?logo=twitter&style=for-the-badge" alt="callmednx" /></a> </p>
 
-- 🔭 I’m currently working on [GESPRO - College](https://github.com/dpr1005/GESPRO_Teoria_2021)
+- 🔭 I’m currently working on [HARD-MESSAGE](https://github.com/dpr1005/hard-message)
 
 - 🌱 I’m currently learning **INFOSEC & AI**
 
