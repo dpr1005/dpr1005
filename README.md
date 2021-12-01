@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/callmednx" target="blank"><img src="https://img.shields.io/twitter/follow/callmednx?logo=twitter&style=for-the-badge" alt="callmednx" /></a> </p>
 
-- 🔭 I’m currently working on **my own portfolio**
+- 🔭 I’m currently working on [Semisupervised learning and instance selection](https://github.com/dpr1005/Semisupervised-learning-and-instance-selection-methods)
 
 - 🌱 I’m currently learning **Neural Networks, Genetic Algorithms, etc.**
 
