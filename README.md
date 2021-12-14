@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Semisupervised learning and instance selection](https://github.com/dpr1005/Semisupervised-learning-and-instance-selection-methods)
 
-- 🌱 I’m currently learning **Neural Networks, Genetic Algorithms, etc.**
+- 🌱 I’m currently learning **Semi Supervised Learning, Genetic Algorithms, etc.**
 
 - 👨‍💻 All of my projects are available at [WIP](WIP)
 
