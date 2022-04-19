@@ -36,3 +36,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpr1005&show_icons=true&locale=en" alt="dpr1005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpr1005&" alt="dpr1005" /></p>
+
+
+
+
+May the code be with us!
