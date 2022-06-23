@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/callmednx" target="blank"><img src="https://img.shields.io/twitter/follow/callmednx?logo=twitter&style=for-the-badge" alt="callmednx" /></a> </p>
 
-- 🔭 I’m currently working on [Semisupervised learning and instance selection](https://github.com/dpr1005/Semisupervised-learning-and-instance-selection-methods) and [UBUMLaaS](https://github.com/dpr1005/UBUMLaaS)
+- 🔭 I’m currently working on [👾 Hangman](https://github.com/dpr1005/Hangman-App), a game based on the Tauri framework.
 
-- 🌱 I’m currently learning **Semi Supervised Learning, Genetic Algorithms, etc.**
+- ⛳ My latests finished projects are [Semisupervised learning and instance selection](https://github.com/dpr1005/Semisupervised-learning-and-instance-selection-methods) and [UBUMLaaS](https://github.com/dpr1005/UBUMLaaS)
+
+- 🌱 I’m currently learning **Tauri (Rust & JS) and Pentesting**
 
 - 👨‍💻 All of my projects are available at [WIP](WIP)
 
@@ -40,6 +42,4 @@
 
 
 
-May the code be with us! Or not, just use Copilot:D
-
-Looking for adventures in the cybersecurity field! 
+>May the code be with us! Or not, just use Copilot :D
