@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Currently I am student colaborator of the Computer Science Department at Universidad de Burgos in Spain.</h3>
+<h3 align="center">Currently I am Pentester and Cybersecurity consultant at <a href="https://www.mnemo.com">Mnemo</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpr1005&label=Profile%20views&color=0e75b6&style=flat" alt="dpr1005" /> </p>
 
