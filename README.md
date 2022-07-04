@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [👾 Hangman](https://github.com/dpr1005/Hangman-App), a game based on the Tauri framework.
 
-- ⛳ My latests finished projects are [Semisupervised learning and instance selection](https://github.com/dpr1005/Semisupervised-learning-and-instance-selection-methods) and [UBUMLaaS](https://github.com/dpr1005/UBUMLaaS)
+- ⛳ My latests finished projects are [Semisupervised learning and instance selection](https://github.com/dpuenteramirez/Semisupervised-learning-and-instance-selection-methods) and [UBUMLaaS](https://github.com/dpuenteramirez/UBUMLaaS)
 
 - 🌱 I’m currently learning **Tauri (Rust & JS) and Pentesting**
 
