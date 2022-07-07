@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Currently I am Pentester and Cybersecurity consultant at <a href="https://www.mnemo.com">Mnemo</a>.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpr1005&label=Profile%20views&color=0e75b6&style=flat" alt="dpr1005" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpuenteramirez&label=Profile%20views&color=0e75b6&style=flat" alt="dpuenteramirez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpr1005" alt="dpr1005" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpuenteramirez" alt="dpuenteramirez" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/callmednx" target="blank"><img src="https://img.shields.io/twitter/follow/callmednx?logo=twitter&style=for-the-badge" alt="callmednx" /></a> </p>
 
-- 🔭 I’m currently working on [👾 Hangman](https://github.com/dpr1005/Hangman-App), a game based on the Tauri framework.
+- 🔭 I’m currently working on [👾 Hangman](https://github.com/dpuenteramirez/Hangman-App), a game based on the Tauri framework.
 
 - ⛳ My latests finished projects are [Semisupervised learning and instance selection](https://github.com/dpuenteramirez/Semisupervised-learning-and-instance-selection-methods) and [UBUMLaaS](https://github.com/dpuenteramirez/UBUMLaaS)
 
@@ -23,8 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/callmednx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmednx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danielpuenteramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielpuenteramirez" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dpr1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dpr1005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dpr1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dpr1005" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dpuenteramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dpuenteramirez" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dpuenteramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dpuenteramirez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,11 +33,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/danielpuente"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danielpuente" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpr1005&show_icons=true&locale=en&layout=compact" alt="dpr1005" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpuenteramirez&show_icons=true&locale=en&layout=compact" alt="dpuenteramirez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpr1005&show_icons=true&locale=en" alt="dpr1005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpuenteramirez&show_icons=true&locale=en" alt="dpuenteramirez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpr1005&" alt="dpr1005" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpuenteramirez&" alt="dpuenteramirez" /></p>
 
 
 
