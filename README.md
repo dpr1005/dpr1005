@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Currently I am Pentester and Cybersecurity consultant at <a href="https://www.mnemo.com">Mnemo</a>.</h3>
+<h3 align="center">Currently I am Pentester and Cybersecurity consultant at <a href="#">REDACTED</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpuenteramirez&label=Profile%20views&color=0e75b6&style=flat" alt="dpuenteramirez" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [WIP](WIP)
 
-- 📫 How to reach me **dan-ix00@protonmail.com**
+- 📫 How to reach me **Open ISSUE**
 
 - ⚡ Fun fact **geek, passionate, HWPO**
 
